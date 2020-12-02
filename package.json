@@ -1,0 +1,17 @@
+{
+  "name": "node-pgp-cli",
+  "version": "1.0.0",
+  "description": "NodeJS Command line interface utility for PGP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandru Calinica",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^6.2.0",
+    "enquirer": "^2.3.6",
+    "figlet": "^1.5.0",
+    "openpgp": "^4.10.8"
+  }
+}
